@@ -6,8 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-   <script>
-      alert("hi bro");
-   </script>  
+
+    <script>
+        alert("hi bro");
+    </script>
+    
 </body>
 </html>
