@@ -7,7 +7,7 @@
 </head>
 <body>
    <script>
-      alert("hi bro")
-   <script>  
+      alert("hi bro");
+   </script>  
 </body>
 </html>
